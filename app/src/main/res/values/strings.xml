@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prueba de Ingreso</string>
+    <string name="text_search_user">Buscar usuario</string>
+    <string name="text_name_user">Leanne Graham</string>
+    <string name="text_phone_user">1-770-736-8031</string>
+    <string name="text_email_user">alguien@example.com</string>
+    <string name="text_show_post">VER PUBLICACIONES</string>
+    <string name="text_title">sunt aut facere repellat provident occaecati excepturi optio reprehenderit</string>
+    <string name="text_body">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</string>
+</resources>
